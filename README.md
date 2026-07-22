@@ -1,4 +1,4 @@
-# Modern Data Warehouse: Architecture and Dataflow 
+# Medallion Architecture and Dataflow 
 This is a three layer data warehouse built adhering to the medallion architecture and with data extracted from enterprise ERP and CRM systems. Again, a <a href="Data-Warehouse/Architecture/DWH_star_schema.png" target="_blank">star schema</a> is developed with dimension tables centering at the sales fact table.
 
 [![Layout Diagram](Data-Warehouse/Architecture/DWH_layout.png)](Data-Warehouse/Architecture/DWH_layout.png)
